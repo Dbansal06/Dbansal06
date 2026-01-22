@@ -7,7 +7,7 @@
 
 ---
 
-## 🔧 Skills
+##  Skills
 
 ### Programming
 - Python
@@ -52,6 +52,6 @@
 ---
 
 
-## 📫 Connect with Me
+##  Connect with Me
 - LinkedIn: https://www.linkedin.com/in/deenu-bansal
 - GitHub: https://github.com/Dbansal06
