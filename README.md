@@ -48,7 +48,8 @@
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Dbansal06)
+![GitHub Streak](https://streak-stats.demolab.com?user=Dbansal06&theme=default)
+
 
 
 
