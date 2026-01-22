@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Deenu 👋
 
-<!--
-**Dbansal06/Dbansal06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student in Artificial Intelligence & Data Science  
+📊 Aspiring Data Scientist  
+💻 Learning Python, SQL, Machine Learning & Data Analysis  
+🌱 Interested in Open Source & Real-world Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+### Programming
+- Python
+- SQL
+
+### Data Analysis & Visualization
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
+
+### Machine Learning
+- Scikit-learn
+- Machine Learning Fundamentals
+  - Regression
+  - Classification
+  - Clustering
+  - Model Evaluation
+
+### Deep Learning (Beginner)
+- PyTorch
+- Neural Network Basics
+
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+
+---
+
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/deenu-bansal
+- GitHub: https://github.com/Dbansal06
