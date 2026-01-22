@@ -43,7 +43,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dbansal06&show_icons=true&count_private=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dbansal06&show_icons=true&count_private=true&bg_color=0d1117&title_color=7cf7ff&text_color=c9d1d9&icon_color=bb86fc&border_color=7cf7ff)
+
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dbansal06&theme=tokyo-night)
