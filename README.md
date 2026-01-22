@@ -47,12 +47,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dbansal06&theme=tokyonight)
 
-
-
-
-
-
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dbansal06&theme=tokyo-night)
 
 ---
 
