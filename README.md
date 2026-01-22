@@ -45,7 +45,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dbansal06&show_icons=true&count_private=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Dbansal06&theme=tokyonight)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dbansal06&theme=tokyo-night)
 
