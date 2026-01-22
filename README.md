@@ -41,6 +41,13 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Deenu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dbansal06&show_icons=true&hide_title=true&count_private=true)
+
+
+---
+
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/deenu-bansal
