@@ -22,7 +22,6 @@
 🎓 **B.Tech (AI & Data Science)** – CGC Landran  
 📊 **Focused on Data Science & Machine Learning**  
 🧠 Strong interest in **real-world problem solving using data**    
-
 💡 I believe in **learning by building**, not just certificates.
 
 ---
