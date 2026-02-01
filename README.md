@@ -78,14 +78,19 @@
 
 ## 📈 GitHub Stats 
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dbansal06&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Dbansal06&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dbansal06&show_icons=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbansal06&layout=compact&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Dbansal06" height="160"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbansal06&layout=compact"/>
+</p>
+
 
 ---
 
