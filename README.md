@@ -1,83 +1,83 @@
-# Hello World, I'm Deenu 👋
+# 🌌 Deenu Bansal | AI & Data Science Specialist 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist;ML+%2F+DL+Enthusiast;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00D4FF&height=200&section=header&text=DEENU%20BANSAL&fontSize=70&animation=fadeIn&fontAlignY=38&desc=B.Tech%20AI%20%26%20Data%20Science%20|%20Aspiring%20Data%20Scientist&descAlignY=62&descFontSize=20" width="100%" />
 </p>
 
----
-
-### 🌌 About Me
-I am a B.Tech student specializing in **Artificial Intelligence & Data Science**. I thrive on turning messy data into elegant stories and predictive models. My goal is to build AI that is both impactful and ethical.
-
-- 🔭 **Current Project:** Building end-to-end ML pipelines.
-- 🌱 **Learning:** Deep Learning architectures with PyTorch & Advanced SQL.
-- 👯 **Open Source:** Looking to contribute to Python-based data tools.
-- ⚡ **Fun Fact:** I believe a good visualization is worth a thousand rows of CSV.
-
----
-
-### 🛠️ Technical Ecosystem
-
-**Core Data Science & ML**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
-
-**Visualization & Analytics**
-<p align="left">
-  <img src="https://img.shields.io/badge/Seaborn-444444?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-**DevOps & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_Source-61DAFB?style=for-the-badge&logo=opensourceinitiative&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
----
-
-### 📊 Data Insights & Activity
-
-<table border="0">
- <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Dbansal06&show_icons=true&theme=vision-friendly-dark" width="400" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbansal06&layout=compact&theme=vision-friendly-dark" width="300" /></td>
- </tr>
-</table>
-
-**📈 Coding Activity Graph**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dbansal06&theme=dracula&area=true&hide_border=true" width="100%" />
+  <a href="https://linkedin.com/in/deenu-bansal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Dbansal06&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
-### 📂 Featured Repositories
+### 🕵️‍♂️ Professional Summary
+I am a Data Science student obsessed with the **"Why"** behind the data. I specialize in building predictive models and interactive visualizations. Currently focused on optimizing **Neural Network architectures** and **Automated EDA**.
 
-| Project | Description | Tech Stack |
+- 🔭 **Working on:** End-to-end ML deployment using Flask/FastAPI.
+- 🌱 **Learning:** Big Data technologies (Apache Spark) and Advanced PyTorch.
+- 💬 **Expertise:** Exploratory Data Analysis (EDA), Statistical Inference, and Predictive Modeling.
+
+---
+
+### 📊 Vital Statistics (Real-Time)
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dbansal06&show_icons=true&theme=tokyonight&border_radius=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbansal06&layout=compact&theme=tokyonight&border_radius=10" />
+</p>
+
+
+
+---
+
+### 🛠️ Tech Stack Matrix
+
+| Area | Technologies | Proficiency |
 | :--- | :--- | :--- |
-| **[ML-Predictor](https://github.com/Dbansal06)** | Predicts house prices with 92% accuracy. | Python, Sklearn |
-| **[EDA-Visualizer](https://github.com/Dbansal06)** | Interactive dashboard for sales data. | Pandas, Plotly |
-| **[DL-Classifier](https://github.com/Dbansal06)** | Image classification using PyTorch. | DL, CNN |
+| **Languages** | `Python`, `SQL`, `R (Basics)` | ████████░░ 80% |
+| **ML Frameworks** | `Scikit-Learn`, `XGBoost`, `CatBoost` | ███████░░░ 70% |
+| **Deep Learning** | `PyTorch`, `Keras`, `TensorFlow` | █████░░░░░ 50% |
+| **Data Viz** | `Plotly`, `Seaborn`, `Matplotlib` | █████████░ 90% |
+| **Tools/DevOps** | `Git`, `VS Code`, `Jupyter` | ██████░░░░ 60% |
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/deenu-bansal" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+### 🕋 3D Contribution Universe
+*This graph represents my daily commitment to the craft. Every block is a problem solved.*
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Dbansal06&color=00D4FF&style=flat-square&label=PROFILE+VIEWS" />
+---
+
+### 🐍 Contribution Activity Flow
+*Watching my progress grow through the "Snake" algorithm.*
+
+<p align="center">
+  <img src="./dist/github-snake-dark.svg" width="100%" alt="Snake Animation" />
 </p>
+
+---
+
+### 📈 Weekly Coding Hours (WakaTime)
+*Total time spent on IDE this week:*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dbansal06&theme=tokyonight" width="100%" />
+</p>
+
+---
+
+### 📂 Featured Repositories (Impact Driven)
+
+- **[Project Title 1]**: A Machine Learning model that achieved **94% accuracy** on [Dataset]. Used **GridSearchCV** for hyperparameter tuning.
+- **[Project Title 2]**: An interactive **Plotly/Dash** dashboard that visualizes [Specific Data], reducing analysis time by 40%.
+- **[Project Title 3]**: Open Source contribution to [Library Name] improving documentation for the `fit_transform` method.
+
+---
+
+### 🤝 Let's Connect
+- 🔭 Check out my [Portfolio Website](https://yourportfolio.com) (Optional)
+- ⚡ I'm open to **Internships** and **Collaborative Research**.
