@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 🎓 **B.Tech (AI & Data Science)** – CGC Landran  
 📊 Passionate about **Data Science, Machine Learning & Deep Learning**  
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### 👨‍💻 Programming Languages
 <p>
@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 Data Science & Visualization
+###  Data Science & Visualization
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
@@ -59,7 +59,7 @@
 
 ---
 
-### 🤖 Machine Learning & Deep Learning
+###  Machine Learning & Deep Learning
 <p>
   <img src="https://skillicons.dev/icons?i=sklearn,pytorch" />
 </p>
@@ -69,32 +69,44 @@
 
 ---
 
-### 🔧 Tools & Version Control
+###  Tools & Version Control
 <p>
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
 
-## 📈 GitHub Stats 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dbansal06&show_icons=true" height="160"/>
-</p>
+###  Analytical Overview
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dbansal06" height="160"/>
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Dbansal06&show_icons=true&theme=rose_pine&hide_border=true" alt="Main Stats" height="170" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbansal06&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" height="170" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dbansal06&theme=rose_pine&hide_border=true" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
 </p>
 
+** Global Activity Heatmap**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbansal06&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dbansal06&theme=pink&area=true&hide_border=true" width="100%" />
 </p>
+
+
 
 
 ---
 
-## 🧠 Currently Learning
+##  Currently Learning
 
 - 🔹 Machine Learning Algorithms (in-depth)
 - 🔹 Feature Engineering & Model Evaluation
@@ -103,7 +115,7 @@
 
 ---
 
-## 🎯 Career Goal
+##  Career Goal
 
 > **To become a skilled Data Scientist who builds intelligent, scalable, and impactful solutions.**
 
