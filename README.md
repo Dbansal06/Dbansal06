@@ -21,8 +21,7 @@
 
 🎓 **B.Tech (AI & Data Science)** – CGC Landran  
 📊 **Focused on Data Science & Machine Learning**  
-🧠 Strong interest in **real-world problem solving using data**  
-🏆 Preparing for **GATE 2026 (Target Rank: < 50)**  
+🧠 Strong interest in **real-world problem solving using data**    
 
 💡 I believe in **learning by building**, not just certificates.
 
@@ -32,7 +31,7 @@
 
 ### 👨‍💻 Programming & Data
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,sql,git,github" />
 </p>
 
 ### 📊 Data Science & ML
