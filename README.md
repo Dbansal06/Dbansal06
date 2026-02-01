@@ -30,7 +30,7 @@
 
 ### 👨‍💻 Programming & Data
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,c++,sql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,c/c++,sql,git,github" />
 </p>
 
 ### 📊 Data Science & ML
