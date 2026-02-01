@@ -76,29 +76,20 @@
 
 ---
 
-###  Analytical Overview
+###  Statistics & Data Insights
 
 <p align="center">
-<table align="center" border="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Dbansal06&show_icons=true&theme=rose_pine&hide_border=true" alt="Main Stats" height="170" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbansal06&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" height="170" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dbansal06&theme=rose_pine&hide_border=true" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-</table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dbansal06&show_icons=true&theme=rose_pine&hide_border=true&count_private=true&cache_seconds=1800" height="150" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbansal06&layout=compact&theme=rose_pine&hide_border=true&cache_seconds=1800" height="150" alt="Top Languages" />
 </p>
 
-** Global Activity Heatmap**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dbansal06&theme=pink&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dbansal06&theme=rose_pine&hide_border=true&cache_seconds=1800" width="100%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dbansal06&theme=pink&area=true&hide_border=true&cache_seconds=1800" width="100%" alt="Activity Graph" />
 </p>
 
 
