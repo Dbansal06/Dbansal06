@@ -79,12 +79,12 @@
 ## 📈 GitHub Stats (Fixed & Working)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dbansal06&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dbansal06&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Dbansal06&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
