@@ -109,10 +109,10 @@ I aim to work on **real-world datasets**, contribute to **open-source**, and gro
 ## 🤝 Let’s Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/deenu-bansal">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:bansaldeenu33@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
