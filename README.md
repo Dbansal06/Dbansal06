@@ -79,17 +79,16 @@
 ###  Statistics & Data Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dbansal06&show_icons=true&theme=rose_pine&hide_border=true&count_private=true&cache_seconds=1800" height="150" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbansal06&layout=compact&theme=rose_pine&hide_border=true&cache_seconds=1800" height="150" alt="Top Languages" />
+  <a href="https://github.com/Dbansal06">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dbansal06&show_icons=true&theme=dracula&title_color=ff79c6&icon_color=ff79c6&text_color=f8f8f2&bg_color=282a36&hide_border=true" alt="Deenu's GitHub Stats" height="180" />
+  </a>
+  <a href="https://github.com/Dbansal06">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dbansal06&layout=compact&theme=dracula&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36&hide_border=true" alt="Top Languages" height="180" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dbansal06&theme=rose_pine&hide_border=true&cache_seconds=1800" width="100%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dbansal06&theme=pink&area=true&hide_border=true&cache_seconds=1800" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dbansal06&theme=pink&area=true&hide_border=true" width="100%" alt="Deenu's Contribution Graph" />
 </p>
 
 
