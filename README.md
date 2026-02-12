@@ -1,6 +1,4 @@
-<!-- ========================= -->
-<!--        HERO SECTION       -->
-<!-- ========================= -->
+
 
 <h1 align="center">Hi 👋, I'm Deenu</h1>
 <h3 align="center">AI & Data Science Undergraduate | Aspiring Data Scientist | ML Enthusiast</h3>
@@ -126,9 +124,7 @@ I aim to work on **real-world datasets**, contribute to **open-source**, and gro
 
 ---
 
-<!-- ========================= -->
-<!--      3D CONTRIBUTION      -->
-<!-- ========================= -->
+
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="3D contribution snake" />
