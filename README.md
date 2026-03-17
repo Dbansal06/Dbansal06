@@ -1,117 +1,89 @@
-
-
-<h1 align="center">Hi 👋, I'm Deenu</h1>
-<h3 align="center">AI & Data Science Undergraduate | Aspiring Data Scientist | ML Enthusiast</h3>
+<h1 align="center">Hey, I'm Deenu 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+%7C+Machine+Learning;Python+%7C+NumPy+%7C+Pandas;Deep+Learning+%7C+PyTorch;Always+Learning+Always+Building&center=true&width=550&height=45">
+  <b>AI & Data Science undergrad @ CGC Landran &nbsp;·&nbsp; GSoC 2026 Applicant @ INCF &nbsp;·&nbsp; Open Source Contributor</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=6A9FB5&center=true&vCenter=true&width=600&lines=Angular+%7C+ASP.NET+Core+%7C+PostgreSQL;Python+%7C+PyTorch+%7C+Scikit-learn;Currently+contributing+to+AnalySim+%40+INCF" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dbansal06&label=Profile+Views&color=6A9FB5&style=flat" />
+  <img src="https://img.shields.io/badge/GSoC-2026%20Applicant-orange?style=flat&logo=google" />
+  <img src="https://img.shields.io/badge/Open%20Source-Active-brightgreen?style=flat" />
 </p>
 
 ---
 
-##  About Me
+## About Me
 
-🎓 **B.Tech (AI & Data Science)** – CGC Landran  
-📊 Passionate about **Data Science, Machine Learning & Deep Learning**  
-🧠 Strong interest in **real-world problem solving using data**  
-💡 Believe in **learning by building**, not just certificates  
+I'm a third-year B.Tech student in AI & Data Science, currently diving deep into full-stack web development through open source. I got into competitive programming through Python and ML, but lately I've been spending most of my time in Angular and C# — which is what led me to AnalySim.
 
----
+I applied for **GSoC 2026 with INCF** to work on [AnalySim](https://github.com/soft-eng-practicum/AnalySim), a research data platform for computational neuroscience built on Angular + ASP.NET Core. I've already set up the project locally, traced through the codebase, and submitted a PR fixing issue [#114](https://github.com/soft-eng-practicum/AnalySim/issues/114) — a long-standing fragility in how JupyterLite was integrated.
 
-##  Tech Stack
-
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-- **SQL** – Queries, Joins, Aggregations, Constraints  
+I like understanding *why* something is broken before touching the code. And I prefer small, reviewable PRs over big bang branches.
 
 ---
 
-###  Data Science & Visualization
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+## 🔬 Open Source — AnalySim (INCF / GSoC 2026)
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" width="45"/>
-</p>
-
-- **NumPy** – Numerical computing  
-- **Pandas** – Data analysis & preprocessing  
-- **Matplotlib / Seaborn / Plotly** – Data visualization & insights  
+| What | Link |
+|------|------|
+| 📌 Issue tackled | [#114 — Less hacky way of integrating Jupyter Lite](https://github.com/soft-eng-practicum/AnalySim/issues/114) |
+| 🔀 Pull Request | [fix(jupyter): replace manual index.html patching with config-based plugin](https://github.com/Dbansal06/AnalySim/pull/new/fix/114-jupyter-lite-config-cleanup) |
+| 🧩 What I fixed | Moved fragile `console.info` patch → proper JupyterLite plugin using `app.restored`, consolidated duplicate `JupyterLiteStorageService`, fixed `ngOnDestroy` event listener leak |
+| 🛠️ Tech | Angular (TypeScript), ASP.NET Core (C#), PostgreSQL, JupyterLite, Python |
 
 ---
 
-###  Machine Learning & Deep Learning
+## 🛠️ Tech Stack
+
+### What I'm working with right now
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn,pytorch" />
+  <img src="https://skillicons.dev/icons?i=angular,typescript,cs,dotnet,postgres" />
 </p>
 
-- **Scikit-learn** – ML models, pipelines, evaluation  
-- **PyTorch** – Deep Learning & Neural Networks  
-
----
-
-###  Tools & Version Control
+### What I know well
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,mysql" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40"/>
 </p>
 
 ---
 
-###  Statistics & Data Insights
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Dbansal06">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dbansal06&show_icons=true&theme=dracula&title_color=ff79c6&icon_color=ff79c6&text_color=f8f8f2&bg_color=282a36&hide_border=true" alt="Deenu's GitHub Stats" height="180" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dbansal06&show_icons=true&theme=dracula&title_color=6A9FB5&icon_color=6A9FB5&text_color=f8f8f2&bg_color=282a36&hide_border=true&count_private=true" height="170" />
   </a>
   <a href="https://github.com/Dbansal06">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dbansal06&layout=compact&theme=dracula&title_color=ff79c6&text_color=f8f8f2&bg_color=282a36&hide_border=true" alt="Top Languages" height="180" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dbansal06&layout=compact&theme=dracula&title_color=6A9FB5&text_color=f8f8f2&bg_color=282a36&hide_border=true" height="170" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dbansal06&theme=pink&area=true&hide_border=true" width="100%" alt="Deenu's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dbansal06&theme=react-dark&area=true&hide_border=true" width="100%" />
 </p>
 
+---
 
+## 🌱 What I'm focused on right now
 
+- Contributing to **AnalySim** ahead of GSoC 2026 — working through open issues and understanding the full stack
+- Going deeper on **Angular** — services, lifecycle hooks, RxJS patterns
+- **ASP.NET Core** — controllers, EF Core migrations, API design
+- Strengthening ML fundamentals with **PyTorch** for my coursework
 
 ---
 
-##  Currently Learning
-
-- 🔹 Machine Learning Algorithms (in-depth)
-- 🔹 Feature Engineering & Model Evaluation
-- 🔹 Deep Learning with PyTorch
-- 🔹 Data Visualization 
-
----
-
-##  Career Goal
-
-> **To become a skilled Data Scientist who builds intelligent, scalable, and impactful solutions.**
-
-I aim to work on **real-world datasets**, contribute to **open-source**, and grow continuously as an engineer.
-
----
-
-## 🤝 Let’s Connect
+## 📫 Let's connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/deenu-bansal">
@@ -122,14 +94,6 @@ I aim to work on **real-world datasets**, contribute to **open-source**, and gro
   </a>
 </p>
 
----
-
-
-
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="3D contribution snake" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </p>
-
----
-
-⭐ **If you like my work, consider starring my repositories!**
