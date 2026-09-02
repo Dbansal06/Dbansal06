@@ -206,11 +206,6 @@ Currently preparing for **GSoC 2026**, contributing to open source projects, and
 
 ## 🛠️ Tech Stack
 
-### Currently working with
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,typescript,cs,dotnet,postgres" />
-</p>
-
 ### Solid foundation
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,git,github,mysql" />
@@ -224,28 +219,8 @@ Currently preparing for **GSoC 2026**, contributing to open source projects, and
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Dbansal06">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dbansal06&show_icons=true&theme=dracula&title_color=6A9FB5&icon_color=6A9FB5&text_color=f8f8f2&bg_color=282a36&hide_border=true&count_private=true" height="170" />
-  </a>
-  <a href="https://github.com/Dbansal06">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dbansal06&layout=compact&theme=dracula&title_color=6A9FB5&text_color=f8f8f2&bg_color=282a36&hide_border=true" height="170" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dbansal06&theme=react-dark&area=true&hide_border=true" width="100%" />
-</p>
-
----
-
 ## 🌱 What I'm focused on right now
 
-- Contributing to open source projects as part of **GSoC 2026** preparation
-- Going deeper on **Angular** — RxJS, lifecycle hooks, service architecture
-- **ASP.NET Core** — API design, EF Core, middleware
 - Strengthening ML foundations with **PyTorch** for coursework and projects
 
 ---
